@@ -1,0 +1,7 @@
+SoftSerial.c:21:6:SoftSerial_GPIOCallBack	16	static
+SoftSerial.c:33:6:SoftSerial_TimerCallBack	16	static
+SoftSerial.c:50:10:SoftSerial_GetTime	24	static
+SoftSerial.c:56:6:SoftSerial_UpdateTime	24	static
+SoftSerial.c:72:6:SoftSerial_UpdateData	24	static
+SoftSerial.c:97:6:SoftSerial_MakeData	24	static
+SoftSerial.c:123:6:SoftSerial_Init	16	static
